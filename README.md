@@ -1,4 +1,4 @@
-# Your First IDE Lab
+Hello World
 
 <div class="readme-content-test--hide-when-active">
 
